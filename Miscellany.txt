@@ -1,0 +1,2 @@
+We chose the Apache License as it is extremely popular amongst open-source communities and is approved by the Free Software Foundation and Open Source Initiative.
+The Contibutor Covenant, as we learned in the lab lecture, is a popular, encompassing Code of Conduct that is employed by many open source communities and covers actions that we would not condone in this project.
