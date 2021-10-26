@@ -1,7 +1,11 @@
 # kyleandolivia
 
 ## Installation
-pip install kyleandolivia
+1. Open Jupyter Lab and start a terminal
+2. Navigate to the folder you wish to download this program
+3. Type in `git clone https://github.com/oliviat10/kyleandolivia.git' and hit the enter key
+4. This should download a folder to your local machine with our program (the folder should be called `kyleandolivia')
+5. Launch the 'superfunprogram.ipynb' file
 
 ## What Our Program Does & How to Use it
 Our program determines whether the number of characters in the user's input is even or odd by utilizing the mod operator to check for remainders when the input's length is divided by zero. The user can work our program by simply entering their desired input when prompted by the program to do so.
