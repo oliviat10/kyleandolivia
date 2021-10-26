@@ -1,5 +1,8 @@
 # kyleandolivia
 
+## Installation
+pip install kyleandolivia
+
 ## What Our Program Does & How to Use it
 Our program determines whether the number of characters in the user's input is even or odd by utilizing the mod operator to check for remainders when the input's length is divided by zero. The user can work our program by simply entering their desired input when prompted by the program to do so.
 
